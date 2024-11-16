@@ -1,4 +1,3 @@
-# arch-linux-install
 # Arch Linux Documentation
 ## Philip Rahal
 ## 15 November 2024
